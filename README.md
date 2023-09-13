@@ -1,8 +1,5 @@
-# :round_pushpin:
-*Parkville, MD*
-
-[Amalla4@students.towson.edu]
-(mailto:Amalla4@students.towson.edu)
+[Amalla4@students.towson.edu](mailto:Amalla4@students.towson.edu)
+Baltimore County, MD
 
 ## EDUCATION
 - **Master of Science (Computer Science)**, Towson University, Towson, MD, May 2023
