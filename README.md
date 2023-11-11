@@ -1,61 +1,78 @@
-[Amalla4@students.towson.edu](mailto:Amalla4@students.towson.edu)
-Baltimore County, MD
+# APOORBA (AP) MALLA
 
-## EDUCATION
-- **Master of Science (Computer Science)**, Towson University, Towson, MD, May 2023
-  - GPA: 4.00 (first semester)
-
-- **Bachelor of Arts (Computer Science)**, Westminster College, Fulton, MO, May 2018
-  - Major: Computer Science
-  - GPA: 3.56
-
-## RELEVANT COURSEWORK
-- Data Structures
-- Database Management System
-- Web Development
-- Fundamentals of Information Technology
-- Fundamentals of Computer Science II (C++)
-- Object-Oriented Programming (C++)
-- Computer Networking
-
-## TECHNICAL SKILLS
-- **Programming Languages**: C++, HTML, CSS, JavaScript, Visual Basic, Python, Java
-- **Databases**: MySQL
-- **Scripting**: Bash, PowerShell
-- **Operating Systems**: Windows, Linux
+Parkville, MD | (410) 446-5666 | [amalla19@outlook.com](mailto:amalla19@outlook.com) | [LinkedIn](https://www.linkedin.com/in/apoorba-malla-33b8091b9/)
 
 ## WORK EXPERIENCE
-### Student Computing Services – Towson University, Office of Technology Services
-*August 2021 - Present*
-- Provided phone and chat support for students with technical issues.
-- Documented and escalated complex issues to various tech groups.
-- Assisted with on-site laptop troubleshooting, connectivity issues, and malware/virus removal.
-- Troubleshot WEPA printers across campus and performed maintenance tasks.
-- Re-imaged and installed software for loaner/temporary laptops.
 
-### IT Infrastructure Analyst - Client: T.Rowe Price, Baltimore, MD
-*June 2020 - June 2021 & August 2018 - September 2019*
-- Remotely troubleshooted web browser issues, application errors, and network connectivity problems.
-- Assisted with Identity and Access Management (IAM) for new and existing users.
-- Provided support for software installations, licensing, and hardware order processing.
-- Troubleshot remote connectivity issues and escalated as needed.
-- Collaborated with the desktop-operations team on user system upgrades.
-- Maintained and improved internal knowledge-base (KBs).
+### Manager – TU, Office of Technology Services - Student Computing Services
+*Jan 2023 – Dec 2023*
+- Managed the student service desk ticketing queue for chat, phone, and in-person support.
+- Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000) significantly reducing ticket/incident volume for common issues.
+- Improved initial response and resolution time by setting up auto-assign scripts, alerts and response templates which improved agent productivity and reduced issues with ticket ownership.
+- Collaborated with cross-functional teams to resolve breaking changes promptly.
+- Conducted bi-weekly meetings with other service desk supervisors to address complaints, suggest improvements, and provide guidance and feedback to technicians.
 
-### Operations Specialist (Cloud) - Supply Chain - Client: Macys Technology
-*October 2019 - March 2020*
-- Supported infrastructure hosted on Google Cloud Platform (GCP).
-- Utilized GitLab as the source code management tool and worked with custom Jenkins (CI).
-- Troubleshot CI/CD pipelines for new microservices and escalated issues when necessary.
-- Collaborated with the Site Reliability Engineering (SRE) team to create self-service documentation (KBs) for standard operating procedures (SOPs).
-- Ensured the proper functioning of monitoring tools (Prometheus, Grafana, Alertmanager).
+### Technician - Student Computing Services
+*Aug 2021- Dec 2022*
+- Performed student device troubleshooting, focusing on software issues including connectivity, malware removal, and driver issues.
+- Provided remote support via phone or chat to end users.
+- Worked extensively with the IAM (Identity and Access Management) team to resolve access and licensing issues, authentication errors, account activation/disable etc.
 
-### Student Technical Support - Westminster College, IT Services
-*August 2017 – May 2018*
-- Updated PCs and drivers for printers and scanners.
-- Built and assembled PC towers and workstations.
-- Maintained and replaced campus-wide ViewSonic projectors.
-- Assisted with Active Directory tasks, including password/SSO resets.
-- Provided remote user assistance through the IT helpdesk.
-- Conducted re-imaging of corrupt OS using Microsoft Deployment Toolkit (MDT).
+### Teaching Assistant (Computer Science) – TU, CIS Department
+*Feb 2022 – Dec 2022*
+- Undergraduate Teaching Assistant for ‘COSC236 Intro to Computer Science I’.
+- Tutored students weekly in Java fundamentals including variables, loops, arrays, file I/O, methods, objects, classes, OOP concepts, recursion etc.
+- Guided students in best practice, debugging, and troubleshooting techniques.
+- Graded coding assignments and labs and provided feedback.
 
+### Operations Specialist - Supply Chain Management - Client: Macy's Technology
+*Oct 2019 - March 2020*
+- Fixed failing Jenkins CI pipeline scripts written in Groovy.
+- Resolved common GCP related requests such as resource scaling, IAM role changes/updates, alerting rule changes.
+- Created and maintained SOPs documentation for self-service developer tasks.
+- Ensured monitoring tools (Prometheus, Grafana, Alert manager) were functioning correctly.
+
+### IT Infrastructure Analyst - Client: T. Rowe Price
+*Aug 2018 - Sept 2019 | June 2020 - June 2021*
+- Provided IT operations support for end-user software including web and desktop apps, and network issues.
+- Managed IAM for end users and groups including provisioning, managing, and removing access.
+- Worked on remote connectivity issues and maintained SLAs.
+- Created KB articles for standard operating procedures and troubleshooting steps.
+
+## PAST PROJECTS
+
+### IT Asset Management System
+- Developed a desktop app UI using Java Swing for a user-friendly interface.
+- Used SQL Server backend database for data integrity and reliability.
+- Integrated Java JDBC for CRUD operations.
+
+### Movie Tracker Web Application
+- Developed a web application using the MERN stack for tracking movies.
+- Used React.js for components and routing, styled with Tailwind CSS.
+- Utilized Firebase for authentication and website hosting.
+- Created an Express.js API for user account information.
+- Integrated TMDB API and used MongoDB for user data storage.
+
+### NxN NFT Marketplace
+- Built a responsive front-end using React.js and Tailwind CSS.
+- Implemented exchange smart contracts in Solidity using the Open Zeppelin library.
+- Utilized Pinata’s IPFS API and Hardhat.js for contract deployment.
+- Integrated MetaMask wallet authentication.
+
+### Cybersecurity & Cyber Forensics Resource Center
+- Managed a WordPress CMS website for cybersecurity news, jobs, education, and cyber forensics labs.
+- Integrated various job search APIs using Rapid API and PHP.
+- Managed WordPress plugins for RSS feed aggregation, newsletter distribution, and site backup & restore functions.
+
+## EDUCATION
+### BA in Computer Science
+*May 2018* - Westminster College, MO
+
+### MS in Software Engineering
+*Dec 2023* - Towson University (TU), MD
+
+## RELEVANT COURSEWORK & LANGUAGES
+- Data Structures, Database Management System, Web Development, Object-Oriented Programming, Computer Networking
+- Languages & tools learned/used: Java, JavaScript, HTML, CSS, SQL, MongoDB, Bash
+
+[GitHub](https://github.com/amalla4)
