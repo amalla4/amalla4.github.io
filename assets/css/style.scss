@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+header img {
+    width: 150px; /* Adjust the size as needed */
+    height: auto; /* This maintains the aspect ratio */
+    border: 3px solid #333; /* Solid border, adjust color and width as needed */
+    /* Add more styling as needed */
+}
