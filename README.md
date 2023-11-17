@@ -1,34 +1,45 @@
-# APOORBA (AP) MALLA
+# APOORBA (AP) MALLA M.S.
 
-Parkville, MD | (410) 446-5666 | [amalla19@outlook.com](mailto:amalla19@outlook.com) | [LinkedIn](https://www.linkedin.com/in/apoorba-malla-33b8091b9/)
+Parkville, MD | (410) 446-5666 | [amalla19@outlook.com](mailto:amalla19@outlook.com) | [GitHub](https://amalla4.github.io) | [LinkedIn](https://www.linkedin.com/in/apoorba-malla-33b8091b9/)
+
+Dedicated IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing exceptional technical support. Adept at collaborating with cross-functional teams to drive improvements and resolve complex technical issues. Looking for opportunities to leverage knowledge in computer science and software engineering to deliver innovative solutions and enhance operational efficiency.
+
+## SKILLS
+- Team Management
+- Talent Development and Mentoring
+- Change Management
+- DevOps/Operations Management
+- Software Engineering
+- Web Development (Java, JavaScript, HTML, CSS, SQL, MongoDB, Bash)
 
 ## WORK EXPERIENCE
 
 ### Manager – TU, Office of Technology Services - Student Computing Services
 *Jan 2023 – Dec 2023*
 - Managed the student service desk ticketing queue for chat, phone, and in-person support.
-- Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000) significantly reducing ticket/incident volume for common issues.
-- Improved initial response and resolution time by setting up auto-assign scripts, alerts and response templates which improved agent productivity and reduced issues with ticket ownership.
+- Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000), reducing ticket/incident volume for common issues.
+- Improved initial response time and resolution time by setting up auto-assign scripts, alerts, and response templates, which improved agent productivity and reduced friction with ticket ownership.
 - Collaborated with cross-functional teams to resolve breaking changes promptly.
 - Conducted bi-weekly meetings with other service desk supervisors to address complaints, suggest improvements, and provide guidance and feedback to technicians.
 
 ### Technician - Student Computing Services
-*Aug 2021- Dec 2022*
-- Performed student device troubleshooting, focusing on software issues including connectivity, malware removal, and driver issues.
+*Aug 2021 - Dec 2022*
+- Performed student device troubleshooting, focusing on software issues - connectivity, malware removal, driver issues.
 - Provided remote support via phone or chat to end users.
-- Worked extensively with the IAM (Identity and Access Management) team to resolve access and licensing issues, authentication errors, account activation/disable etc.
+- Worked with the IAM (Identity and Access Management) team to resolve access and licensing issues, authentication errors, account activation/disable, etc.
 
 ### Teaching Assistant (Computer Science) – TU, CIS Department
 *Feb 2022 – Dec 2022*
 - Undergraduate Teaching Assistant for ‘COSC236 Intro to Computer Science I’.
-- Tutored students weekly in Java fundamentals including variables, loops, arrays, file I/O, methods, objects, classes, OOP concepts, recursion etc.
-- Guided students in best practice, debugging, and troubleshooting techniques.
+- Topics covered included variables, loops, arrays, file I/O, methods, objects, classes, OOP concepts, recursion, etc.
+- Tutored students weekly to complete coding assignments on various Java fundamentals.
+- Guided students to follow best practice and learn debugging and troubleshooting techniques.
 - Graded coding assignments and labs and provided feedback.
 
 ### Operations Specialist - Supply Chain Management - Client: Macy's Technology
 *Oct 2019 - March 2020*
 - Fixed failing Jenkins CI pipeline scripts written in Groovy.
-- Resolved common GCP related requests such as resource scaling, IAM role changes/updates, alerting rule changes.
+- Resolved common GCP related requests for resource scaling, IAM role changes/updates, alerting rule changes.
 - Created and maintained SOPs documentation for self-service developer tasks.
 - Ensured monitoring tools (Prometheus, Grafana, Alert manager) were functioning correctly.
 
@@ -42,27 +53,28 @@ Parkville, MD | (410) 446-5666 | [amalla19@outlook.com](mailto:amalla19@outlook.
 ## PAST PROJECTS
 
 ### IT Asset Management System
+- Lightweight asset management tool to view, add, remove, and update IT hardware assets.
 - Developed a desktop app UI using Java Swing for a user-friendly interface.
-- Used SQL Server backend database for data integrity and reliability.
-- Integrated Java JDBC for CRUD operations.
+- Stored the asset information in SQL Server backend database for data integrity and reliability.
+- Integrated Java JDBC for comprehensive CRUD operations.
 
 ### Movie Tracker Web Application
-- Developed a web application using the MERN stack for tracking movies.
-- Used React.js for components and routing, styled with Tailwind CSS.
-- Utilized Firebase for authentication and website hosting.
-- Created an Express.js API for user account information.
-- Integrated TMDB API and used MongoDB for user data storage.
+- Developed a dynamic web application using the MERN stack for tracking watched movies, setting reminders, leaving movie reviews, and searching previously watched movies.
+- Used React.js for all web app components and routing. Styled the React components with Tailwind CSS for responsive design.
+- Firebase SDK for user authentication and hosting.
+- Integrated The Movie Database (TMDB) API for real-time data retrieval.
 
-### NxN NFT Marketplace
-- Built a responsive front-end using React.js and Tailwind CSS.
+### [NxN NFT Marketplace](https://nft-app-1.web.app/)
+- Built a modern responsive front-end for an NFT marketplace using React.js and styled components with Tailwind CSS.
 - Implemented exchange smart contracts in Solidity using the Open Zeppelin library.
-- Utilized Pinata’s IPFS API and Hardhat.js for contract deployment.
+- Utilized Pinata’s IPFS API for uploading NFT data and retrieving the IPFS hash.
+- Utilized Hardhat.js to test and deploy the NFT exchange smart contract to the Sepolia TestNet.
 - Integrated MetaMask wallet authentication.
 
-### Cybersecurity & Cyber Forensics Resource Center
+### [Cybersecurity & Cyber Forensics Resource Center](https://www.cyberforensics4all.org/)
 - Managed a WordPress CMS website for cybersecurity news, jobs, education, and cyber forensics labs.
-- Integrated various job search APIs using Rapid API and PHP.
-- Managed WordPress plugins for RSS feed aggregation, newsletter distribution, and site backup & restore functions.
+- Utilized Rapid API hub to integrate various job search APIs. Implemented search using PHP for cybersecurity and other IT jobs.
+- Configured and managed WordPress plugins for essential services including RSS feed aggregation, newsletter distribution, and site backup & restore functions.
 
 ## EDUCATION
 ### BA in Computer Science
@@ -70,9 +82,3 @@ Parkville, MD | (410) 446-5666 | [amalla19@outlook.com](mailto:amalla19@outlook.
 
 ### MS in Software Engineering
 *Dec 2023* - Towson University (TU), MD
-
-## RELEVANT COURSEWORK & LANGUAGES
-- Data Structures, Database Management System, Web Development, Object-Oriented Programming, Computer Networking
-- Languages & tools learned/used: Java, JavaScript, HTML, CSS, SQL, MongoDB, Bash
-
-[GitHub](https://github.com/amalla4)
