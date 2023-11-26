@@ -4,12 +4,11 @@ Parkville, MD | (410) 446-5666 |
 
 [amalla19@outlook.com](mailto:amalla19@outlook.com) | [GitHub](https://amalla4.github.io) | [LinkedIn](https://www.linkedin.com/in/apoorba-malla-33b8091b9/)
 
-Dedicated IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing exceptional technical support. Adept at collaborating with cross-functional teams to drive improvements and resolve complex technical issues. Looking for opportunities to leverage knowledge in computer science and software engineering to deliver innovative solutions and enhance operational efficiency.
+IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Adept at collaborating with cross-functional teams to drive improvements and resolve complex technical issues. Looking for opportunities to leverage knowledge in computer science and software engineering to deliver innovative solutions and enhance operational efficiency.
 
 ## SKILLS
 - Team Management
 - Talent Development and Mentoring
-- Change Management
 - DevOps/Operations Management
 - Software Engineering
 - Web Development (Java, JavaScript, HTML, CSS, SQL, MongoDB, Bash, AWS, GCP)
