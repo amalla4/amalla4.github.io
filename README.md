@@ -7,21 +7,22 @@ Parkville, MD | (410) 446-5666 |
 IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Adept at collaborating with cross-functional teams to drive improvements and resolve complex technical issues. Looking for opportunities to leverage knowledge in computer science and software engineering to deliver innovative solutions and enhance operational efficiency.
 
 ## SKILLS
-- Team Management
-- Talent Development and Mentoring
-- DevOps/Operations Management
-- Software Engineering
-- Web Development (Java, JavaScript, HTML, CSS, SQL, MongoDB, Bash, AWS, GCP)
+- Software Engineering (Data Structures, Algorithms, Operating Systems, Version Control, Database Management)
+- Web Development (MERN stack (MongoDB, Express.js, React, Node.js), WordPress(PHP), Java, MySQL)
+- IT Operations Management (IT service management(ITSM) tools - ServiceNow, TeamDynamix)
+- Basic Infrastructure Management (Terraform, Jenkins, Bash, AWS, GCP)
+- Team Management and Mentoring
+
 
 ## WORK EXPERIENCE
 
 ### Manager – TU, Office of Technology Services - Student Computing Services
 *Jan 2023 – Dec 2023*
-- Managed the student service desk ticketing queue for chat, phone, and in-person support.
+- Managed the student service desk queues for web, phone, and in-person support.
 - Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000), reducing ticket/incident volume for common issues.
-- Improved initial response time and resolution time by setting up auto-assign scripts, alerts, and response templates, which improved agent productivity and reduced friction with ticket ownership.
+- Improved initial response and resolution time through auto-assign scripts, alerts, and response templates, improving agent productivity and reducing friction with ticket ownership.
 - Collaborated with cross-functional teams to resolve breaking changes promptly.
-- Conducted bi-weekly meetings with other service desk supervisors to address complaints, suggest improvements, and provide guidance and feedback to technicians.
+- Conducted bi-weekly meetings with other service desk supervisors to address complaints, improve processes, and provide guidance and feedback to technicians.
 
 ### Technician - TU, Office of Technology Services - Student Computing Services
 *Aug 2021 - Dec 2022*
@@ -32,10 +33,10 @@ IT professional with a background in technology services, software engineering, 
 ### Graduate Teaching Assistant (Computer Science) – TU, CIS Department
 *Feb 2022 – Dec 2022*
 - Undergraduate Teaching Assistant for ‘COSC236 Intro to Computer Science I’.
-- Topics covered included variables, loops, arrays, file I/O, methods, objects, classes, OOP concepts, recursion, etc.
 - Tutored students weekly to complete coding assignments on various Java fundamentals.
-- Guided students to follow best practice and learn debugging and troubleshooting techniques.
-- Graded coding assignments and labs and provided feedback.
+- Covered topics such as arrays, file I/O, methods, objects, classes, OOP concepts, recursion, etc.
+- Guided students to follow best practice debugging and troubleshooting techniques.
+- Graded written assignments, coding labs and provided feedback.
 
 ### Operations Specialist - Supply Chain Management - Client: Macy's Technology
 *Oct 2019 - March 2020*
