@@ -1,10 +1,10 @@
-# APOORBA MALLA, M.S.
+# APOORBA MALLA, M.S. 
 
-Parkville, MD | (410) 446-5666 | 
+[amalla19@outlook.com](mailto:amalla19@outlook.com) | <a href="https://github.com/amalla4" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/apoorba-malla-33b8091b9/" target="_blank">LinkedIn</a>
 
-[amalla19@outlook.com](mailto:amalla19@outlook.com) | [GitHub](https://github.com/amalla4) | [LinkedIn](https://www.linkedin.com/in/apoorba-malla-33b8091b9/)
+:round_pushpin: Parkville, MD :round_pushpin:
 
-IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Experienced in collaborating with cross-functional teams to drive improvements and resolve technical issues. Currently I am looking for opportunities to leverage my knowledge in computer science and software engineering to deliver solutions and enhance operational efficiency.
+IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Experienced in collaborating with cross-functional teams to drive improvements and resolve technical issues. Currently looking for opportunities to leverage my knowledge in computer science and software engineering to deliver solutions and enhance operational efficiency.
 
 ## SKILLS
 - Software Engineering (Data Structures, Algorithms, Operating Systems, Version Control, Database Management)
