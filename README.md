@@ -20,9 +20,8 @@ IT professional with a background in technology services, software engineering, 
 *Jan 2023 – Dec 2023*
 - Managed the student service desk queues for web, phone, and in-person support.
 - Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000), reducing ticket/incident volume for common issues.
-- Improved initial response and resolution time through auto-assign scripts, alerts, and response templates, improving agent productivity and reducing friction with ticket ownership.
 - Collaborated with cross-functional teams to resolve breaking changes promptly.
-- Conducted bi-weekly meetings with other service desk supervisors to address complaints, improve processes, and provide guidance and feedback to technicians.
+- Conducted bi-weekly meetings with other supervisors to address complaints, improve processes, and provide guidance and feedback to technicians.
 
 ### Technician - TU, Office of Technology Services - Student Computing Services
 *Aug 2021 - Dec 2022*
@@ -36,7 +35,7 @@ IT professional with a background in technology services, software engineering, 
 - Tutored students weekly to complete coding assignments on various Java fundamentals.
 - Covered topics such as arrays, file I/O, methods, objects, classes, OOP concepts, recursion, etc.
 - Guided students to follow best practice debugging and troubleshooting techniques.
-- Graded written assignments, coding labs and provided feedback.
+- Graded assignments and coding labs.
 
 ### Operations Specialist - Supply Chain Management - Client: Macy's Technology
 *Oct 2019 - March 2020*
@@ -45,7 +44,7 @@ IT professional with a background in technology services, software engineering, 
 - Created and maintained SOPs documentation for self-service developer tasks.
 - Ensured monitoring tools (Prometheus, Grafana, Alert manager) were functioning correctly.
 
-### Infrastructure Analyst - Client: T. Rowe Price
+### Infrastructure Operations Analyst - Client: T. Rowe Price
 *Aug 2018 - Sept 2019 | June 2020 - June 2021*
 - Provided IT operations support for end-user software including web and desktop apps, and network issues.
 - Managed IAM for end users and groups including provisioning, managing, and removing access.
