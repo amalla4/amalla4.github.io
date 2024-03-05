@@ -74,7 +74,7 @@ IT professional with a background in technology services, software engineering, 
 - Utilized Rapid API hub to integrate various job search APIs. Implemented search using PHP for cybersecurity and other IT jobs.
 - Configured and managed WordPress plugins for essential services including RSS feed aggregation, newsletter distribution, and site backup & restore functions.
   
-### <a href="https://chat-bot-wrapper-4trf.vercel.app/ target="_blank">ChatBotWrapper</a>
+### <a href="https://chat-bot-wrapper-4trf.vercel.app/" target="_blank">ChatBotWrapper</a>
 - Full-stack MERN app that can be used to chat with different text generation APIs. Currently using gpt-3.5-turbo.
 - Used Material UI (MUI) for frontend components. 
 - Implemented basic JWT authorization, HTTP only cookies.
