@@ -73,6 +73,14 @@ IT professional with a background in technology services, software engineering, 
 - Managed a WordPress CMS website for cybersecurity news, jobs, education, and cyber forensics labs.
 - Utilized Rapid API hub to integrate various job search APIs. Implemented search using PHP for cybersecurity and other IT jobs.
 - Configured and managed WordPress plugins for essential services including RSS feed aggregation, newsletter distribution, and site backup & restore functions.
+  
+### <a href="https://chat-bot-wrapper-4trf.vercel.app/ target="_blank">ChatBotWrapper</a>
+- Full-stack MERN app that can be used to chat with different text generation APIs. Currently using gpt-3.5-turbo.
+- Used Material UI (MUI) for frontend components. 
+- Implemented basic JWT authorization, HTTP only cookies.
+- Context API for state management.
+- User chats stored in MongoDB.
+- Express-validators middleware for data validation.
 
 ### IT Asset Management System
 - Lightweight asset management tool to view, add, remove, and update IT hardware assets.
