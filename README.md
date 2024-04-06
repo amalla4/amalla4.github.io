@@ -4,7 +4,7 @@
 
 Parkville, MD 
 
-IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Experienced in collaborating with cross-functional teams to drive improvements and resolve technical issues. Currently looking for opportunities to leverage my knowledge in computer science and software engineering to deliver solutions and enhance operational efficiency.
+IT professional with a background in technology services, software engineering, and IT operations. Proven expertise in managing technology service desks, developing and maintaining IT systems, and providing technical support. Experienced in collaborating with cross-functional teams to drive improvements and resolve technical issues. Looking for opportunities in software engineering.
 
 ## SKILLS
 - Software Engineering (Data Structures, Algorithms, Operating Systems, Version Control, Database Management)
