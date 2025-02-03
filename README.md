@@ -1,6 +1,6 @@
 # APOORBA MALLA, M.S. 
 
-[apmalla@outlook.com](mailto:apmalla@outlook.com) | <a href="https://github.com/amalla4" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/apoorba-malla-33b8091b9/" target="_blank">LinkedIn</a>
+[apmalla@outlook.com](mailto:apmalla@outlook.com) | <a href="https://github.com/amalla4" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/apoorba-m-33b8091b9/" target="_blank">LinkedIn</a>
 
 Parkville, MD 
 
