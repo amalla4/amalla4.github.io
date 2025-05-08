@@ -1,19 +1,13 @@
 # APOORBA MALLA, M.S. 
 
-[apmalla@outlook.com](mailto:apmalla@outlook.com) | <a href="https://github.com/amalla4" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/apoorba-m-33b8091b9/" target="_blank">LinkedIn</a>
-
-Parkville, MD 
+[apmalla@outlook.com](mailto:apmalla@outlook.com) | <a href="https://github.com/amalla4" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/apoorba-m-33b8091b9/" target="_blank">LinkedIn</a> | Parkville, MD 
 
 IT professional with experience as Production Support for large financial company and Graduate Teaching Assistant for Computer Science. Looking for software developer, infrastructure engineer, cloud engineer, production support roles.
 
-
 ## SKILLS
-- Software Engineering (Data Structures, Algorithms, Operating Systems, Version Control, Database Management)
-- Web Development (MERN stack (MongoDB, Express.js, React, Node.js), WordPress(PHP), Java, MySQL)
-- IT Operations Management (IT service management(ITSM) tools - ServiceNow, TeamDynamix)
-- Basic Infrastructure Management (Terraform, Jenkins, Bash, AWS, GCP)
-- Team Management and Mentoring
-
+- Software Engineering core: Data Structures & Algorithms, Operating Systems, Version Control, Database Management
+- Web Development: JavaScript (Express.js, React, Node.js) WordPress (PHP), Java (Spring Boot), SQL/NoSQL (MySQL, DynamoDB, PostgreSQL, MongoDB)
+- Infrastructure/Cloud: Terraform, Jenkins, Bash, AWS, GCP, Firebase
 
 ## WORK EXPERIENCE
 
@@ -67,8 +61,7 @@ IT professional with experience as Production Support for large financial compan
 - Configured and managed WordPress plugins for essential services including RSS feed aggregation, newsletter distribution, and site backup & restore functions.
 
 ## CERTIFICATIONS
-- AWS Certified Solutions Architect – Associate (https://www.credly.com/badges/5f9aff34-212f-4e22-9b0a-06d480af19c3/public_url)
-
+- <a href="https://www.credly.com/badges/5f9aff34-212f-4e22-9b0a-06d480af19c3/public_url" target="_blank"> AWS Certified Solutions Architect – Associate </a>
 
 ## EDUCATION
 ### BA in Computer Science
