@@ -13,15 +13,10 @@ IT professional with experience as Production Support for large financial compan
 
 ### Infrastructure Operations Analyst - Client: T. Rowe Price
 *June 2024 - Present*
-- Production support for web applications and some desktop applications, network issues, and platforms like Citrix and Salesforce.
-- Manage Identity and Access Management (IAM) for end users and groups by provisioning, managing, and removing access.
-- Create and update knowledge base articles for standard operating procedures and troubleshooting steps for helpdesk agents improving resolution times and operational disruptions for end users.
-
-### Technician - TU, Office of Technology Services - Student Computing Services
-*Aug 2021 - Dec 2022*
-- Performed student device troubleshooting, focusing on software issues - connectivity, malware removal, driver issues.
-- Published and updated knowledge base docs for common issues and procedures for internal IT staff and TU users (~18,000) reducing ticket/incident volume for common issues
-- Resolved IAM issues for student accounts - access and licensing issues, authentication errors, and account activations/disables - improving user experience and security
+- Production support for web apps, desktop apps, and network issues.
+- Support for Virtual Desktop Instances (VDIs) on the Citrix platform.
+- Identity and Access Management (IAM) operations on SailPoint for end users and groups - provisioning, deprovisioning, access reviews, and reporting.
+- Streamlined support operations by creating and updating knowledge base articles (SOPs, troubleshooting guides).
 
 ### Graduate Teaching Assistant (Computer Science) – TU, CIS Department
 *Feb 2022 – Dec 2022*
@@ -30,12 +25,18 @@ IT professional with experience as Production Support for large financial compan
 - Covered topics such as arrays, file I/O, methods, objects, classes, OOP concepts, recursion, etc.
 - Guided students to follow best practice debugging and troubleshooting techniques. Graded assignments and coding labs.
 
+### IT Technician - TU, Office of Technology Services - Student Computing Services
+*Aug 2021 - Dec 2023*
+- Escalated/resolved IAM issues for student accounts (mostly Microsoft 365) - licensing issues, authentication errors, and account activations/disables.
+- Remote/in-person support for web/desktop apps used in various classes - MATLAB, Tableau, Visual Studio, ArcGIS, Adobe CC etc.
+- Diagnosed and resolved software issues on student devices (laptops, tablets, mobile phones) - network connectivity, malware, and OS/driver problems.
+
 ### Operations Specialist - Supply Chain Management - Client: Macy's Technology
 *Oct 2019 - March 2020*
-- Fixed failing Jenkins CI pipeline scripts written in Groovy.
-- Resolved common GCP related requests for resource scaling, IAM role changes/updates, alerting rule changes.
+- Worked on resolving Jenkins CI scripts that were failing.
+- Completed GCP related requests for resource scaling, IAM role changes/updates, alerting rule changes.
 - Created and maintained SOPs documentation for self-service developer tasks.
-- Ensured monitoring tools (Prometheus, Grafana, Alert manager) were functioning correctly.
+- Ensured monitoring tools (Prometheus, Grafana, Alert manager) were functioning/reporting correctly.
 
 ## PAST PROJECTS
 
