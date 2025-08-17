@@ -6,8 +6,8 @@ IT professional with experience as Production Support for large financial compan
 
 ## SKILLS
 - Software Engineering core: Data Structures & Algorithms, Operating Systems, Version Control, Database Management
-- Web Development: JavaScript (Express.js, React, Node.js) WordPress (PHP), Java (Spring Boot), SQL/NoSQL (MySQL, DynamoDB, PostgreSQL, MongoDB)
-- Infrastructure/Cloud: Terraform, Jenkins, Bash, AWS, GCP, Firebase
+- JavaScript (Express.js, React, Node.js), WordPress (PHP), Java (Spring Boot), SQL/NoSQL (MySQL, DynamoDB, PostgreSQL, MongoDB)
+- Infrastructure: Terraform, Jenkins, Bash, PowerShell, AWS, GCP, Firebase
 
 ## WORK EXPERIENCE
 
@@ -43,10 +43,9 @@ IT professional with experience as Production Support for large financial compan
 ### <a href="https://chatwpdf-neon.vercel.app/" target="_blank">Chat with PDFs</a>
 - Web app using Next.js with TypeScript for frontend and backend API routes.
 - Integrated Clerk for user authentication, authorization, and session management.
-- Stored PDFs in Amazon S3 and used LangChain to extract data from the PDFs.
-- Utilized the OpenAI API to generate embeddings for the PDF data and for chat completion.
+- Stored PDFs in Amazon S3 and used LangChain to extract data from the PDFs, OpenAI API to generate embeddings.
 - Pinecone Vector DB for storing the embeddings/vectors and for querying similar vectors from the PDF data.
-- Used Vercel AI SDK for streaming responses to the UI.
+- Used Vercel AI SDK for streaming responses.
 - Serverless Postgres hosted on Neon to store the PDF metadata and chat messages.
 
 ### <a href="https://nft-app-1.web.app/" target="_blank">NxN NFT Marketplace</a>
@@ -56,17 +55,9 @@ IT professional with experience as Production Support for large financial compan
 - Utilized Hardhat.js to test and deploy the NFT exchange smart contract to the Sepolia TestNet.
 - Integrated MetaMask wallet authentication.
 
-### <a href="https://www.cyberforensics4all.org/" target="_blank">Cybersecurity & Cyber Forensics Resource Center</a>
-- Managed a WordPress CMS website for cybersecurity news, jobs, education, and cyber forensics labs.
-- Utilized Rapid API hub to integrate various job search APIs. Implemented search using PHP for cybersecurity and other IT jobs.
-- Configured and managed WordPress plugins for essential services including RSS feed aggregation, newsletter distribution, and site backup & restore functions.
-
 ## CERTIFICATIONS
 - <a href="https://www.credly.com/badges/5f9aff34-212f-4e22-9b0a-06d480af19c3/public_url" target="_blank"> AWS Certified Solutions Architect – Associate </a>
 
 ## EDUCATION
-### BA in Computer Science
-*May 2018* - Westminster College, MO
-
-### MS in Software Engineering
-*Dec 2023* - Towson University (TU), MD
+### BA Computer Science - Westminster College, MO
+### MS Software Engineering - Towson University, MD
